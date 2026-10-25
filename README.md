@@ -1,12 +1,17 @@
 # Customer Feedback Intelligence — AI-Powered Feedback Analysis Platform
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000.svg?logo=vercel&logoColor=white)](https://customer-feedback-intelligence-one.vercel.app)
+[![API Backend](https://img.shields.io/badge/API-Render-46E3B7.svg?logo=render&logoColor=white)](https://customer-feedback-intelligence-646h.onrender.com/api/health)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Next.js](https://img.shields.io/badge/Next.js-16.4-black.svg?logo=next.js&logoColor=white)](https://nextjs.org)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gen%20AI-Gemini%202.5-4285F4.svg?logo=google&logoColor=white)](https://ai.google.dev)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB.svg?logo=python&logoColor=white)](https://python.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6.svg?logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![Tests](https://img.shields.io/badge/Pytest-40%20passed-success.svg?logo=pytest&logoColor=white)](https://pytest.org)
+[![Tests](https://img.shields.io/badge/Pytest-41%20passed-success.svg?logo=pytest&logoColor=white)](https://pytest.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> 🌐 **Live Website**: [https://customer-feedback-intelligence-one.vercel.app](https://customer-feedback-intelligence-one.vercel.app)  
+> ⚡ **API Health Endpoint**: [https://customer-feedback-intelligence-646h.onrender.com/api/health](https://customer-feedback-intelligence-646h.onrender.com/api/health)
 
 An enterprise-grade, portfolio-ready customer feedback analytics platform that ingests unstructured customer verbatims from CSV or Excel files, cleans and normalizes records non-destructively, extracts structured sentiment and themes using Google Gemini via the official Google Gen AI SDK (`google-genai`), surfaces interactive analytics and executive reports via Next.js and Recharts, and exports audit-ready multi-sheet Excel workbooks.
 
